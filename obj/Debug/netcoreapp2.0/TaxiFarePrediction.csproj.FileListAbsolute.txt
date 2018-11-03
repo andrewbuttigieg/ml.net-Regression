@@ -1,0 +1,13 @@
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/TaxiFarePrediction.deps.json
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/TaxiFarePrediction.runtimeconfig.json
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/TaxiFarePrediction.runtimeconfig.dev.json
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/TaxiFarePrediction.dll
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/TaxiFarePrediction.pdb
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.csprojAssemblyReference.cache
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.csproj.CoreCompileInputs.cache
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.AssemblyInfoInputs.cache
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.AssemblyInfo.cs
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.dll
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/obj/Debug/netcoreapp2.0/TaxiFarePrediction.pdb
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/Data/taxi-fare-test.csv
+/Users/andrewbuttigieg/Documents/Git/ml.net-Regression/bin/Debug/netcoreapp2.0/Data/taxi-fare-train.csv
